@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application</string>
+
+    <string name="title">Candy Store</string>
+
+    <string name="email">Email:</string>
+    <string name="email_v">candystore@gmail.com</string>
+
+    <string name="number">Number:</string>
+    <string name="number_v">9876-5432</string>
+</resources>
